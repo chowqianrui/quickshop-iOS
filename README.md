@@ -5,7 +5,7 @@ Before shopping at Quickshop, you need to install this app and register as a mem
 
 ![Sign up]https://github.com/chowqianrui/quickshop-iOS/blob/master/Images%20of%20App/Welcome%20to%20Quickshop.jpg?v=4&s=200
 
-<img src="https://github.com/chowqianrui/quickshop-iOS/blob/master/Images%20of%20App/Welcome%20to%20Quickshop.jpg" width="300" height="700">
+<img src="https://github.com/chowqianrui/quickshop-iOS/blob/master/Images%20of%20App/Welcome%20to%20Quickshop.jpg" width="200" height="550">
 
 ## What is Quickshop?
 Quickshop is a fully automated store with a central server, facial and object recognition services and a blockchain to store transactions. 
