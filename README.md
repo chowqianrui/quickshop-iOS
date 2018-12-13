@@ -1,7 +1,9 @@
 # quickshop-iOS
 
 An iOS application for customers in an Amazon-Go like shop. 
-Before shopping at Quickshop, you need to install this app and register as a member. 
+Before shopping at Quickshop, you need to install this app and register as a member.
+
+![Sign up](quickshop-iOS/Images of App/Welcome to Quickshop.jpg) 
 
 ## What is Quickshop?
 Quickshop is a fully automated store with a central server, facial and object recognition services and a blockchain to store transactions. 
