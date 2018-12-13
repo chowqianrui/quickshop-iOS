@@ -3,11 +3,7 @@
 An iOS application for customers in an Amazon-Go like shop. 
 Before shopping at Quickshop, you need to install this app and register as a member.
 
-<img src="https://github.com/chowqianrui/quickshop-iOS/blob/master/Images%20of%20App/Welcome%20to%20Quickshop.jpg" width="200" height="450">
-
-<img src="https://github.com/chowqianrui/quickshop-iOS/blob/master/Images%20of%20App/Real-Time-Cart.jpg" width="200" height="450">
-
-<img src="https://github.com/chowqianrui/quickshop-iOS/blob/master/Images%20of%20App/Blockchain-Transaction-History.jpg" width="200" height="450">
+<img src="https://github.com/chowqianrui/quickshop-iOS/blob/master/Images%20of%20App/Welcome%20to%20Quickshop.jpg" width="200" height="450"> <img src="https://github.com/chowqianrui/quickshop-iOS/blob/master/Images%20of%20App/Real-Time-Cart.jpg" width="200" height="450"> <img src="https://github.com/chowqianrui/quickshop-iOS/blob/master/Images%20of%20App/Blockchain-Transaction-History.jpg" width="200" height="450">
 
 ## What is Quickshop?
 Quickshop is a fully automated store with a central server, facial and object recognition services and a blockchain to store transactions. 
